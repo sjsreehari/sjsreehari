@@ -52,19 +52,6 @@ I'm a second-year CS undergrad building at the intersection of **signal processi
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sjsreehari&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sjsreehari&theme=catppuccin_mocha&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sjsreehari&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
 
 <div align="center">
 
