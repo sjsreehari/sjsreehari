@@ -2,7 +2,7 @@
 
 # Sreehari S J
 
-**AI/ML Engineer · India Book of Records Achiever · Research @ IISER Bhopal**
+**AI/ML Engineer  ·  India Book of Records Achiever  ·  Research @ IISER Bhopal**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeharisj)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isrosreehari@gmail.com)
@@ -17,10 +17,10 @@
 
 I'm a second-year CS undergrad building at the intersection of **signal processing, deep learning, and agentic AI**.
 
-- 🏆 **India Book of Records** — camera-free gesture recognition via Wi-Fi CSI at 90.2% accuracy on ESP32
-- 🔬 **Research Assistant @ IISER Bhopal** — telecom fraud detection under Prof. Vinod K. Kurmi
-- ⚙️ **AI/ML Intern @ tetherUp** — RF-based presence detection pipelines & underwater drone sensing
-- 🤖 Building multi-agent systems, publishing open-source tools, winning hackathons
+- 🏆 **India Book of Records** : camera-free gesture recognition via Wi-Fi CSI at 90.2% accuracy on ESP32
+-  **Research Assistant @ IISER Bhopal** : telecom fraud detection under Prof. Vinod K. Kurmi
+-  **AI/ML Intern @ tetherUp** : RF-based presence detection pipelines & underwater drone sensing
+-  Building multi-agent systems, publishing open-source tools, winning hackathons
 
 ---
 
