@@ -53,7 +53,7 @@ Camera-free gesture recognition using only Wi-Fi signals: 90.2% accuracy, no cam
 </td>
 <td width="33%" valign="top">
 
-<img src="https://dse.iiserb.ac.in/images/demo/IISERB_Logo.png" height="40" alt="IISER Bhopal"/><br/>
+<img src="[https://dse.iiserb.ac.in/images/demo/IISERB_Logo.png](https://upload.wikimedia.org/wikipedia/en/3/30/IISERB_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)" height="40" alt="IISER Bhopal"/><br/>
 **Research Assistant**<br/>
 <sub>IISER Bhopal</sub>
 
