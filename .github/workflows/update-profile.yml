@@ -20,9 +20,9 @@ jobs:
           USER_NAME: sjsreehari
         run: |
           gh api -X GET search/issues \
-            -f q="is:pr is:merged author:${USER_NAME} is:public -user:${USER_NAME}" \
+            -f q="is:pr is:merged author:${USER_NAME} is:public -user:${USER_NAME} -repo:elementaryrock/TPT -repo:Xer0oo7/TradeMind" \
             -f sort=updated -f order=desc -f per_page=8 \
-            --jq '.items[] as $pr | ($pr.repository_url | sub("https://api.github.com/repos/";"")) as $repo | "| <img src=\"https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white\" alt=\"Merged\"/> | [\($pr.title)](\($pr.html_url)) | " + (if $repo == "nasa/fprime" then "[<img src=\"assets/nasa-jpl-fprime.png\" height=\"36\" alt=\"NASA JPL / F Prime\"/>](https://github.com/nasa/fprime)" else $repo end) + " | \($pr.pull_request.merged_at[:10]) |"' \
+            --jq '.items[] as $pr | ($pr.repository_url | sub("https://api.github.com/repos/";"")) as $repo | "| <img src=\"https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white\" alt=\"Merged\"/> | [\($pr.title)](\($pr.html_url)) | " + (if $repo == "nasa/fprime" then "[<img src=\"assets/nasa-jpl-fprime.png\" height=\"36\" alt=\"NASA JPL / F Prime\"/>](https://github.com/nasa/fprime)" elif $repo == "ctu-mrs/mrs_uav_controllers" then "[<img src=\"assets/ctu-mrs.png\" height=\"36\" alt=\"CTU MRS / Multi-Robot Systems Group\"/>](https://github.com/ctu-mrs/mrs_uav_controllers)" else $repo end) + " | \($pr.pull_request.merged_at[:10]) |"' \
             > prs.txt
 
       - name: Update README
