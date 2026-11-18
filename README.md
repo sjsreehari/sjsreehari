@@ -116,7 +116,7 @@ Building flight software as an intern.
 
 ---
 
-## Merged Pull Requests
+## Open Source Contributions
 
 <!-- PRS:START -->
 | | Pull request | Repository | Merged |
