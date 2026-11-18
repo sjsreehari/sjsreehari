@@ -117,13 +117,29 @@ Building flight software as an intern.
 ## Featured Repositories
 
 <!-- REPOS:START -->
-_Filled automatically by [`update-profile.yml`](.github/workflows/update-profile.yml)._
+| Repository | Description | Language | Stars |
+| --- | --- | --- | --- |
+| [Wi-Fi-gesture-dectection](https://github.com/sjsreehari/Wi-Fi-gesture-dectection) | WiFi CSI-based gesture recognition using dual-path ensemble deep learning (CNN2D + CNN1D-LSTM). 90.19% accuracy on ESP32 hardware with 426K parameters. | Python | ⭐ 11 |
+| [zerra](https://github.com/sjsreehari/zerra) | Local-first blue-team security platform. Scans code, secrets, dependencies, and databases in isolated local sandboxes, verifies fixes, and opens PRs to GitHub. | Python | ⭐ 9 |
+| [PyroScan-AI](https://github.com/sjsreehari/PyroScan-AI) | PyroScan AI is a GenAI-powered multi-agent system for real-time forest fire prediction across 10 global zones. Designed for researchers and disaster teams, it includes agents for fire detection, weather analysis, and historical data mining. Deployable via CLI or Docker. | Python | ⭐ 9 |
+| [encypher](https://github.com/sjsreehari/encypher) | Lightweight React hook for encrypted localStorage/sessionStorage with a useState-like API. | JavaScript | ⭐ 8 |
+| [Data-Structure-Lab](https://github.com/sjsreehari/Data-Structure-Lab) | Complete KTU Data Structure Lab (C Programs + Algorithms). Easy reference for students & contributors. | C | ⭐ 7 |
+| [Deepfake-Detection-CNN](https://github.com/sjsreehari/Deepfake-Detection-CNN) | A deep learning prototype using Convolutional Neural Networks (CNNs) for deepfake detection, achieving 92% accuracy on the test dataset. Designed as a proof-of-concept for AI-based media verification and research experimentation. | Jupyter Notebook | ⭐ 7 |
 <!-- REPOS:END -->
 
 ## Merged Pull Requests
 
 <!-- PRS:START -->
-_Filled automatically by [`update-profile.yml`](.github/workflows/update-profile.yml)._
+| Pull request | Repository | Merged |
+| --- | --- | --- |
+| [Svc/RateGroupDriver: compute rollover using LCM instead of product (#5987)](https://github.com/nasa/fprime/pull/6037) | nasa/fprime | 2026-10-28 |
+| [Svc/CmdSequencer: reject invalid time-tag microseconds and zero-record AMPCS files (#5891)](https://github.com/nasa/fprime/pull/6039) | nasa/fprime | 2026-09-28 |
+| [cmake/API.cmake: fix SOURCES typo in register_fprime_config STATIC check](https://github.com/nasa/fprime/pull/6022) | nasa/fprime | 2026-09-22 |
+| [Ref/DpDemo: use FPP default priority when command priority is 0](https://github.com/nasa/fprime/pull/6003) | nasa/fprime | 2026-09-21 |
+| [MpcController: fix typos in untilted body velocity error and vertical acceleration constraint](https://github.com/ctu-mrs/mrs_uav_controllers/pull/12) | ctu-mrs/mrs_uav_controllers | 2026-09-17 |
+| [Improved UI of highlights and schedule page](https://github.com/elementaryrock/TPT/pull/1) | elementaryrock/TPT | 2026-06-24 |
+| [Narayan](https://github.com/Xer0oo7/TradeMind/pull/11) | Xer0oo7/TradeMind | 2026-06-15 |
+| [Sreehari](https://github.com/Xer0oo7/TradeMind/pull/10) | Xer0oo7/TradeMind | 2026-06-05 |
 <!-- PRS:END -->
 
 <p align="right"><a href="https://github.com/pulls?q=is%3Apr+author%3Asjsreehari+is%3Amerged+is%3Apublic">View all →</a></p>
