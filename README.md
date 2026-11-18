@@ -9,6 +9,7 @@
   <a href="https://linkedin.com/in/sreeharisj"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://peerlist.io/YOUR_PEERLIST_HANDLE"><img src="https://img.shields.io/badge/Peerlist-0F172A?style=flat-square&logo=peerlist&logoColor=00AA45"/></a>
   <a href="https://www.instagram.com/sj_sreehari"><img src="https://img.shields.io/badge/Instagram-0F172A?style=flat-square&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://x.com/sreehar_sj"><img src="https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="mailto:isrosreehari@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sjsreehari&color=6e7681&style=flat-square&label=views"/>
 </p>
@@ -113,19 +114,6 @@ Building flight software as an intern.
 </table>
 
 ---
-
-## Featured Repositories
-
-<!-- REPOS:START -->
-| Repository | Description | Language | Stars |
-| --- | --- | --- | --- |
-| [Wi-Fi-gesture-dectection](https://github.com/sjsreehari/Wi-Fi-gesture-dectection) | WiFi CSI-based gesture recognition using dual-path ensemble deep learning (CNN2D + CNN1D-LSTM). 90.19% accuracy on ESP32 hardware with 426K parameters. | Python | ⭐ 11 |
-| [zerra](https://github.com/sjsreehari/zerra) | Local-first blue-team security platform. Scans code, secrets, dependencies, and databases in isolated local sandboxes, verifies fixes, and opens PRs to GitHub. | Python | ⭐ 9 |
-| [PyroScan-AI](https://github.com/sjsreehari/PyroScan-AI) | PyroScan AI is a GenAI-powered multi-agent system for real-time forest fire prediction across 10 global zones. Designed for researchers and disaster teams, it includes agents for fire detection, weather analysis, and historical data mining. Deployable via CLI or Docker. | Python | ⭐ 9 |
-| [encypher](https://github.com/sjsreehari/encypher) | Lightweight React hook for encrypted localStorage/sessionStorage with a useState-like API. | JavaScript | ⭐ 8 |
-| [Data-Structure-Lab](https://github.com/sjsreehari/Data-Structure-Lab) | Complete KTU Data Structure Lab (C Programs + Algorithms). Easy reference for students & contributors. | C | ⭐ 7 |
-| [Deepfake-Detection-CNN](https://github.com/sjsreehari/Deepfake-Detection-CNN) | A deep learning prototype using Convolutional Neural Networks (CNNs) for deepfake detection, achieving 92% accuracy on the test dataset. Designed as a proof-of-concept for AI-based media verification and research experimentation. | Jupyter Notebook | ⭐ 7 |
-<!-- REPOS:END -->
 
 ## Merged Pull Requests
 

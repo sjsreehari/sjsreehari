@@ -24,11 +24,6 @@ jobs:
             -f sort=updated -f order=desc -f per_page=8 \
             --jq '.items[] | "| [\(.title)](\(.html_url)) | \(.repository_url | sub("https://api.github.com/repos/";"")) | \(.pull_request.merged_at[:10]) |"' \
             > prs.txt
-          gh api -X GET search/repositories \
-            -f q="user:${USER_NAME} fork:false archived:false" \
-            -f sort=stars -f order=desc -f per_page=6 \
-            --jq '.items[] | select(.name != "'"${USER_NAME}"'") | "| [\(.name)](\(.html_url)) | \(.description // "") | \(.language // "") | ⭐ \(.stargazers_count) |"' \
-            > repos.txt
 
       - name: Update README
         run: |
@@ -40,14 +35,11 @@ jobs:
           s = open("README.md").read()
           prs = table("| Pull request | Repository | Merged |", "| --- | --- | --- |",
                       "prs.txt", "| _No merged PRs yet_ | | |")
-          repos = table("| Repository | Description | Language | Stars |", "| --- | --- | --- | --- |",
-                        "repos.txt", "| _No public repositories yet_ | | | |")
-          for tag, body in (("PRS", prs), ("REPOS", repos)):
-              s = re.sub(rf"<!-- {tag}:START -->.*?<!-- {tag}:END -->",
-                         f"<!-- {tag}:START -->\n{body}\n<!-- {tag}:END -->", s, flags=re.S)
+          s = re.sub(r"<!-- PRS:START -->.*?<!-- PRS:END -->",
+                     f"<!-- PRS:START -->\n{prs}\n<!-- PRS:END -->", s, flags=re.S)
           open("README.md", "w").write(s)
           PY
-          rm prs.txt repos.txt
+          rm prs.txt
 
       - name: Commit
         run: |
