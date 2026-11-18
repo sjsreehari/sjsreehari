@@ -44,6 +44,7 @@ I'm a second-year CS undergrad building at the intersection of **signal processi
 <tr>
 <td width="33%" valign="top">
 
+<img src="assets/india-book-of-records.png" height="48" alt="India Book of Records"/><br/>
 **India Book of Records**<br/>
 <sub>Record holder</sub>
 
@@ -54,7 +55,7 @@ Camera-free gesture recognition using only Wi-Fi signals: 90.2% accuracy, no cam
 </td>
 <td width="33%" valign="top">
 
-<img src="https://www.iiserb.ac.in/assets/images/logo.png" height="40" alt="IISER Bhopal"/><br/>
+<img src="assets/iiser-bhopal.png" height="48" alt="IISER Bhopal"/><br/>
 **Research Assistant**<br/>
 <sub>IISER Bhopal</sub>
 
@@ -65,7 +66,7 @@ Independent research on telecom fraud detection under Prof. Vinod K. Kurmi.
 </td>
 <td width="33%" valign="top">
 
-<img src="https://media.licdn.com/dms/image/v2/D560BAQFKibGSNLs7pw/company-logo_200_200/company-logo_200_200/0/1719256972056/hex20_logo?e=2147483647&v=beta&t=vXEqF6zBK4HPKsV0MRZocstD4piWgQy5_cPznjcTZ2A" height="40" alt="HEX20"/><br/>
+<img src="assets/hex20.png" height="48" alt="HEX20"/><br/>
 **Flight Software Intern**<br/>
 <sub>HEX20</sub>
 
