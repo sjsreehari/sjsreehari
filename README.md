@@ -25,6 +25,7 @@
 <td width="50%" valign="top">
 
 CS undergrad focused on turning AI research into practical, deployed systems.
+**Open to** Research · Internships · Open-Source Collaboration
 
 </td>
 <td width="50%" valign="top">
@@ -32,7 +33,6 @@ CS undergrad focused on turning AI research into practical, deployed systems.
 **Based in** Kerala, India<br/>
 **Studying** CS @ Marian Engineering College<br/>
 **Focus** Signal Processing · Deep Learning · Multi-Agent Systems<br/>
-**Open to** Research · Internships · Open-Source Collaboration
 
 </td>
 </tr>
