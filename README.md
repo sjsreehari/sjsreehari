@@ -2,59 +2,128 @@
 
 # Sreehari S J
 
-**AI/ML Engineer  ·  India Book of Records Achiever  ·  Research @ IISER Bhopal**
+**AI/ML Engineer &nbsp;·&nbsp; India Book of Records Achiever &nbsp;·&nbsp; Research @ IISER Bhopal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeharisj)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isrosreehari@gmail.com)
-[![Portfolio](https://www.sreehari.tech/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sj_sreehari)
+<p>
+  <a href="https://www.sreehari.tech/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sreeharisj"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://peerlist.io/YOUR_PEERLIST_HANDLE"><img src="https://img.shields.io/badge/Peerlist-0F172A?style=flat-square&logo=peerlist&logoColor=00AA45"/></a>
+  <a href="https://www.instagram.com/sj_sreehari"><img src="https://img.shields.io/badge/Instagram-0F172A?style=flat-square&logo=instagram&logoColor=E4405F"/></a>
+  <a href="mailto:isrosreehari@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sjsreehari&color=6e7681&style=flat-square&label=views"/>
+</p>
 
 </div>
 
 ---
 
-### About
+## About
 
-I'm a second-year CS undergrad building at the intersection of **signal processing, deep learning, and agentic AI**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🏆 **India Book of Records** : camera-free gesture recognition via Wi-Fi CSI at 90.2% accuracy on ESP32
--  **Research Assistant @ IISER Bhopal** : telecom fraud detection under Prof. Vinod K. Kurmi
--  **AI/ML Intern @ tetherUp** : RF-based presence detection pipelines & underwater drone sensing
--  Building multi-agent systems, publishing open-source tools, winning hackathons
+I'm a second-year CS undergrad building at the intersection of **signal processing, deep learning, and agentic AI**. I build multi-agent systems, publish open-source tools and enter hackathons.
+
+</td>
+<td width="50%" valign="top">
+
+**Based in** Kerala, India<br/>
+**Studying** CS @ Marian Engineering College<br/>
+**Focus** signal processing · deep learning · agentic AI<br/>
+**Open to** research, internships, collaborations
+
+</td>
+</tr>
+</table>
+
+## Highlights
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**India Book of Records**<br/>
+<sub>Record holder</sub>
+
+Camera-free gesture recognition using only Wi-Fi signals: 90.2% accuracy, no cameras, no wearables.
+
+`Wi-Fi CSI` `ESP32` `Deep Learning`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://dse.iiserb.ac.in/images/demo/IISERB_Logo.png" height="40" alt="IISER Bhopal"/><br/>
+**Research Assistant**<br/>
+<sub>IISER Bhopal</sub>
+
+Independent research on telecom fraud detection under Prof. Vinod K. Kurmi.
+
+`Machine Learning` `Fraud Detection` `Research`
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://media.licdn.com/dms/image/v2/D560BAQFKibGSNLs7pw/company-logo_200_200/company-logo_200_200/0/1719256972056/hex20_logo?e=2147483647&v=beta&t=vXEqF6zBK4HPKsV0MRZocstD4piWgQy5_cPznjcTZ2A" height="40" alt="HEX20"/><br/>
+**Flight Software Intern**<br/>
+<sub>HEX20</sub>
+
+Building flight software as an intern.
+
+`Flight Software` `Embedded`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-**AI / ML**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**AI / ML**<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,numpy,pandas&theme=dark"/><br/>
+<sub>LangChain · Matplotlib · NLP · Computer Vision</sub>
 
-**Web & Backend**
+</td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+**Web & Backend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,fastapi,firebase&theme=dark"/>
 
-**Tools & Infra**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Tools & Infra**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman&theme=dark"/>
 
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**Signals & Embedded**<br/><br/>
+<sub>Signal Processing · Wi-Fi CSI · RF presence detection · ESP32 · Sensor fusion</sub>
 
-![](https://komarev.com/ghpvc/?username=sjsreehari&color=blueviolet)
+</td>
+</tr>
+</table>
 
-</div>
+---
+
+## Featured Repositories
+
+<!-- REPOS:START -->
+_Filled automatically by [`update-profile.yml`](.github/workflows/update-profile.yml)._
+<!-- REPOS:END -->
+
+## Merged Pull Requests
+
+<!-- PRS:START -->
+_Filled automatically by [`update-profile.yml`](.github/workflows/update-profile.yml)._
+<!-- PRS:END -->
+
+<p align="right"><a href="https://github.com/pulls?q=is%3Apr+author%3Asjsreehari+is%3Amerged+is%3Apublic">View all →</a></p>
