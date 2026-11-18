@@ -7,7 +7,7 @@
 <p>
   <a href="https://www.sreehari.tech/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sreeharisj"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://peerlist.io/YOUR_PEERLIST_HANDLE"><img src="https://img.shields.io/badge/Peerlist-0F172A?style=flat-square&logo=peerlist&logoColor=00AA45"/></a>
+  <a href="https://peerlist.io/sreehari_sj"><img src="https://img.shields.io/badge/Peerlist-0F172A?style=flat-square&logo=peerlist&logoColor=00AA45"/></a>
   <a href="https://www.instagram.com/sj_sreehari"><img src="https://img.shields.io/badge/Instagram-0F172A?style=flat-square&logo=instagram&logoColor=E4405F"/></a>
   <a href="https://x.com/sreehar_sj"><img src="https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="mailto:isrosreehari@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white"/></a>
