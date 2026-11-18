@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-CS undergrad focused on turning AI research into practical, deployed systems.
+CS undergrad focused on turning AI research into practical, deployed systems.<br/>
 **Open to** Research · Internships · Open-Source Collaboration
 
 </td>
