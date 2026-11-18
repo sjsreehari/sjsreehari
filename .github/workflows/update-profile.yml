@@ -22,7 +22,7 @@ jobs:
           gh api -X GET search/issues \
             -f q="is:pr is:merged author:${USER_NAME} is:public -user:${USER_NAME}" \
             -f sort=updated -f order=desc -f per_page=8 \
-            --jq '.items[] | "| [\(.title)](\(.html_url)) | \(.repository_url | sub("https://api.github.com/repos/";"")) | \(.pull_request.merged_at[:10]) |"' \
+            --jq '.items[] | "| <img src=\"https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white\" alt=\"Merged\"/> | [\(.title)](\(.html_url)) | \(.repository_url | sub("https://api.github.com/repos/";"")) | \(.pull_request.merged_at[:10]) |"' \
             > prs.txt
 
       - name: Update README
@@ -33,8 +33,8 @@ jobs:
               rows = open(path).read().strip()
               return head + "\n" + sep + "\n" + (rows if rows else empty)
           s = open("README.md").read()
-          prs = table("| Pull request | Repository | Merged |", "| --- | --- | --- |",
-                      "prs.txt", "| _No merged PRs yet_ | | |")
+          prs = table("| | Pull request | Repository | Merged |", "| --- | --- | --- | --- |",
+                      "prs.txt", "| | _No merged PRs yet_ | | |")
           s = re.sub(r"<!-- PRS:START -->.*?<!-- PRS:END -->",
                      f"<!-- PRS:START -->\n{prs}\n<!-- PRS:END -->", s, flags=re.S)
           open("README.md", "w").write(s)

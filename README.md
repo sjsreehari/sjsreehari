@@ -24,15 +24,15 @@
 <tr>
 <td width="50%" valign="top">
 
-I'm a second-year CS undergrad building at the intersection of **signal processing, deep learning, and agentic AI**. I build multi-agent systems, publish open-source tools and enter hackathons.
+CS undergrad focused on turning AI research into practical, deployed systems.
 
 </td>
 <td width="50%" valign="top">
 
 **Based in** Kerala, India<br/>
 **Studying** CS @ Marian Engineering College<br/>
-**Focus** signal processing · deep learning · agentic AI<br/>
-**Open to** research, internships, collaborations
+**Focus** Signal Processing · Deep Learning · Multi-Agent Systems<br/>
+**Open to** Research · Internships · Open-Source Collaboration
 
 </td>
 </tr>
@@ -119,16 +119,16 @@ Building flight software as an intern.
 ## Merged Pull Requests
 
 <!-- PRS:START -->
-| Pull request | Repository | Merged |
-| --- | --- | --- |
-| [Svc/RateGroupDriver: compute rollover using LCM instead of product (#5987)](https://github.com/nasa/fprime/pull/6037) | nasa/fprime | 2026-10-28 |
-| [Svc/CmdSequencer: reject invalid time-tag microseconds and zero-record AMPCS files (#5891)](https://github.com/nasa/fprime/pull/6039) | nasa/fprime | 2026-09-28 |
-| [cmake/API.cmake: fix SOURCES typo in register_fprime_config STATIC check](https://github.com/nasa/fprime/pull/6022) | nasa/fprime | 2026-09-22 |
-| [Ref/DpDemo: use FPP default priority when command priority is 0](https://github.com/nasa/fprime/pull/6003) | nasa/fprime | 2026-09-21 |
-| [MpcController: fix typos in untilted body velocity error and vertical acceleration constraint](https://github.com/ctu-mrs/mrs_uav_controllers/pull/12) | ctu-mrs/mrs_uav_controllers | 2026-09-17 |
-| [Improved UI of highlights and schedule page](https://github.com/elementaryrock/TPT/pull/1) | elementaryrock/TPT | 2026-06-24 |
-| [Narayan](https://github.com/Xer0oo7/TradeMind/pull/11) | Xer0oo7/TradeMind | 2026-06-15 |
-| [Sreehari](https://github.com/Xer0oo7/TradeMind/pull/10) | Xer0oo7/TradeMind | 2026-06-05 |
+| | Pull request | Repository | Merged |
+| --- | --- | --- | --- |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [Svc/RateGroupDriver: compute rollover using LCM instead of product (#5987)](https://github.com/nasa/fprime/pull/6037) | nasa/fprime | 2026-10-28 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [Svc/CmdSequencer: reject invalid time-tag microseconds and zero-record AMPCS files (#5891)](https://github.com/nasa/fprime/pull/6039) | nasa/fprime | 2026-09-28 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [cmake/API.cmake: fix SOURCES typo in register_fprime_config STATIC check](https://github.com/nasa/fprime/pull/6022) | nasa/fprime | 2026-09-22 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [Ref/DpDemo: use FPP default priority when command priority is 0](https://github.com/nasa/fprime/pull/6003) | nasa/fprime | 2026-09-21 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [MpcController: fix typos in untilted body velocity error and vertical acceleration constraint](https://github.com/ctu-mrs/mrs_uav_controllers/pull/12) | ctu-mrs/mrs_uav_controllers | 2026-09-17 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [Improved UI of highlights and schedule page](https://github.com/elementaryrock/TPT/pull/1) | elementaryrock/TPT | 2026-06-24 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [Narayan](https://github.com/Xer0oo7/TradeMind/pull/11) | Xer0oo7/TradeMind | 2026-06-15 |
+| <img src="https://img.shields.io/badge/Merged-%238c5de7?style=flat-square&logo=git&logoColor=white" alt="Merged"/> | [Sreehari](https://github.com/Xer0oo7/TradeMind/pull/10) | Xer0oo7/TradeMind | 2026-06-05 |
 <!-- PRS:END -->
 
 <p align="right"><a href="https://github.com/pulls?q=is%3Apr+author%3Asjsreehari+is%3Amerged+is%3Apublic">View all →</a></p>
